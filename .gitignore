@@ -3,3 +3,10 @@ generations/
 
 # Log files
 logs/
+
+# Python virtual environment
+.venv/
+.venv
+
+# System files
+.DS_Store
